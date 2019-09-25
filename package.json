@@ -1,7 +1,6 @@
 {
-    "description": "Arduino Framework for Linkit 7697",
-    "name": "framework-arduinolinkit7697",
-    "system": "*",
-    "url": "...",
-    "version": "0.0.2"
+    "description": "FreeRTOS Framework for Linkit 7697",
+    "name": "framework-freertoslinkit7697",
+     "url": "https://github.com/stevecarren/framework-freertoslinkit7697.git",
+    "version": "0.0.1"
 }
